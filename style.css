@@ -1,7 +1,15 @@
 *{margin: 0;padding: 0;}
+ 
+body{
+    background-color: #eee;
+}
+
 .icon{
-    width: 20px;
-    
+    width: 25px;
+}
+.bg-lightt {
+    background-color: rgb(239 247 255 / 70%);
+    border-radius: 3px;
 }
 .last_section{
     background-color: rgba(140, 140, 223, 0.3);
@@ -33,7 +41,7 @@
 .nav_icon {
     padding-left: 0px;
     margin-right: 0px;
-    height: 30px;
+    height: 40px;
     width: 140px;
 }
 .navbar-brand {
@@ -51,4 +59,54 @@
 }
 .four_no_section {
     background-color: rgb(75 58 89);
+}
+.back_to_top{
+    font-weight: 800;
+    
+}
+.back_to_top a{
+    text-decoration: none;
+}
+
+.navlink a{
+    font-weight: bold;
+}
+.p-5 {
+    padding: 3rem!important;
+}
+.pl-5{
+    padding: 5rem!important;
+}
+.padding_left{
+    padding-right: 0!important;
+}
+.bg-lighttt {
+    background-color: #edeff0!important;
+    font-weight: bold;
+    color: rgb(108 76 76);
+}
+.formal_shoes {
+    font-weight: bolder;
+    color: rgb(104 67 67);
+}
+.casual_shoes{
+    font-weight: bolder;
+    color: rgb(104 67 67);
+}
+.nike{
+    font-weight: 600px;
+}
+.nike_react{
+    font-size:4em ;
+}
+.buy_button{
+    font-weight: 800;
+}
+.form-label{
+    font-weight: bold;
+}
+.bg-lighttt {
+    background-color: #edeff0!important;
+    font-weight: 200;
+    color: rgb(108 76 76);
 }
